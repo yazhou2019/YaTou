@@ -3,7 +3,7 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-![Image of Yaktocat2](https://github.com/yazhou2019/introduction/blob/master/image/cui22.jpeg)
+![Image of Yaktocat2](https://github.com/yazhou2019/introduction/blob/master/image/cui22.png)
 
 <p align="center">
 	<img src="https://github.com/yazhou2019/introduction/blob/master/image/cui22.jpeg"  alt="Sample" width="25%" height="25%" > 
