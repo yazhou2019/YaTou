@@ -1,6 +1,7 @@
 # Welcome to the introduction page of Ya
 
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 <p align="center">
