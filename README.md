@@ -1,6 +1,6 @@
 ### Welcome to the introduction page
 
-## ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+## ![Image of Yaktocat](https://github.com/yazhou2019/introduction/blob/master/image/cui1.png)
 
 
 ## 
