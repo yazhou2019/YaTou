@@ -1,7 +1,6 @@
-## Welcome to the introduction page
+### Welcome to the introduction page
 
-This is used to introduction the research interest of Ya.
-
+## ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 ## 
