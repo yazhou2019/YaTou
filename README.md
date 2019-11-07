@@ -3,9 +3,9 @@
 ## ![Image of Yaktocat]
 
 <p align="center">
-	<img src="https://github.com/yazhou2019/introduction/blob/master/image/cui22.jpeg" style="transform:rotate(190deg)" alt="Sample" width="15%" height="15%" > 
-	<img src="https://github.com/yazhou2019/introduction/blob/master/image/jiong.png" style="transform:rotate(190deg)" alt="Sample" width="15%" height="15%" > 
-	<img src="https://github.com/yazhou2019/introduction/blob/master/image/cui11.jpeg" style="transform:rotate(190deg)" alt="Sample" width="15%" height="15%" > 
+	<img src="https://github.com/yazhou2019/introduction/blob/master/image/cui22.jpeg" style="transform:rotate(190deg)" alt="Sample" width="25%" height="25%" > 
+	<img src="https://github.com/yazhou2019/introduction/blob/master/image/jiong.png" style="transform:rotate(190deg)" alt="Sample" width="25%" height="25%" > 
+	<img src="https://github.com/yazhou2019/introduction/blob/master/image/cui11.jpeg" style="transform:rotate(190deg)" alt="Sample" width="25%" height="25%" > 
 	
 <p align="center">
 		<em>我家丫头</em>
