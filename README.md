@@ -1,4 +1,4 @@
-# Welcome to the introduction page of Ya
+# Welcome to the page of Ya
 
 
 
@@ -17,8 +17,8 @@
 
 
 
-### 第一张是爱懵
+* 第一张是爱懵
 
-### 第二张是爱笑
+* 第二张是爱笑
 
-### 第三张是爱美
+* 第三张是爱美
