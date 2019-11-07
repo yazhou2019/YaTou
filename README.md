@@ -1,4 +1,4 @@
-# Welcome to the introduction page
+# Welcome to the introduction page of Ya
 
 
 
@@ -15,6 +15,6 @@
 
 
 # 文字说明
-- 第一张是我
+- 第一张是爱懵
 - 第二张是爱笑
 - 第三张是爱美
