@@ -3,9 +3,9 @@
 ## ![Image of Yaktocat]
 
 <p align="center">
-	<img src="https://github.com/yazhou2019/introduction/blob/master/image/cui22.jpeg" style="transform:rotate(190deg)" alt="Sample" width="250" height="140" >
+	<img src="https://github.com/yazhou2019/introduction/blob/master/image/cui22.jpeg" style="transform:rotate(190deg)" alt="Sample" width="15%" height="15%" >  <img src="https://github.com/yazhou2019/introduction/blob/master/image/cui11.jpeg" style="transform:rotate(190deg)" alt="Sample" width="15%" height="15%" > 
 	<p align="center">
-		<em>图片示例2</em>
+		<em>我家丫头</em>
 	</p>
 
 
